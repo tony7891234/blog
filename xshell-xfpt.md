@@ -8,6 +8,10 @@
 ![image](https://user-images.githubusercontent.com/103761593/208912169-83d322a3-9568-4a4d-b585-a2e2bd0e5b92.png)
 
 
+![image](https://github.com/tony7891234/blog/assets/103761593/2cf93965-f3ee-4175-b25e-cec2b370a0b3)
+
+![image](https://github.com/tony7891234/blog/assets/103761593/c460b2b0-7678-4e02-b7fe-4198a91cfd9a)
+
 ##  以下是 xftp
 
 ![image](https://user-images.githubusercontent.com/103761593/208912512-f90dd6c5-59fd-433f-8a1c-2c2ac95837d6.png)
