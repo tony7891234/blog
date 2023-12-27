@@ -1,7 +1,7 @@
 ##  免费下载
-[https://www.xshell.com/zh/free-for-home-school/](https://www.xshell.com/zh/free-for-home-school/)
-[https://www.netsarang.com/en/free-for-home-school/](https://www.netsarang.com/en/free-for-home-school/)
-[https://www.xshellcn.com/xiazai.html](https://www.xshellcn.com/xiazai.html)
+- [https://www.xshell.com/zh/free-for-home-school/](https://www.xshell.com/zh/free-for-home-school/)
+- [https://www.netsarang.com/en/free-for-home-school/](https://www.netsarang.com/en/free-for-home-school/)
+- [https://www.xshellcn.com/xiazai.html](https://www.xshellcn.com/xiazai.html)
 - 第一个应该就可以直接使用。第二个是会最终跳转到第一个去。第三个是xshell  官网  XFPT 也是可以一块下载的
 
 ##  Xshell
